@@ -57,6 +57,7 @@ Interactivo, intuitivo, fácil de navegar y atractivo visualmente para el usuari
 
 #### Teoria del color
 Utilizamos una herramienta para generar una paleta de colores que sea similar a la que vamos a utilizar en CSS utilizando un generador on line en coolors.
+![Paleta de colores](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/Paleta%20de%20colores%20Club%20Zoocial.png?raw=true)
 
 ### Prototipos
 Para la creación de los prototipos de baja y alta fidelidad nos apoyamos con la herramienta llamada Figma. Se diseñó la app priorizando el formato de la pantalla móvil, la cual cuenta con tres vistas (login, registro y home). Además, se realizó el formato para pantalla de computador.
