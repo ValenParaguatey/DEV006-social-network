@@ -1,11 +1,7 @@
-<div>
-<img src= "../DEV006-social-network/src/assets/readme/portada.png" .width="auto"/>
-</div>
-<br>
-<div>
-<img src= "../DEV006-social-network/src/assets/logo-barra.png" .width="auto"/>
-</div>
-<br>
+![PORTADA](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/portada.png?raw=true)
+
+![LOGO](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/logo-barra.png?raw=true)
+
 <span style="color: #000; font-weight:800; font-size:30px; font-family: cursive"><img src= "./src/assets/logo2.png" width="20"/> Indice</span>
 
 * [1. Descripción del Proyecto](#1-descripción-del-proyecto)
