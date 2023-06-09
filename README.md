@@ -1,11 +1,7 @@
-<div>
-<img src= "../DEV006-social-network/src/assets/readme/portada.png" .width="auto"/>
-</div>
-<br>
-<div>
-<img src= "../DEV006-social-network/src/assets/logo-barra.png" .width="auto"/>
-</div>
-<br>
+![PORTADA](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/portada.png?raw=true)
+
+![LOGO](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/logo-barra.png?raw=true)
+
 <span style="color: #000; font-weight:800; font-size:30px; font-family: cursive"><img src= "./src/assets/logo2.png" width="20"/> Indice</span>
 
 * [1. Descripción del Proyecto](#1-descripción-del-proyecto)
@@ -45,11 +41,11 @@ Para la organización y/o planificación de este proyecto utilizamos la herramie
 ## 4. Diseño UX
 ### Historias de Usuarios
 En el desarrollo de este proyecto realizamos cinco historias de usuarios las cuales se separan en las siguientes: 
-![HU 1]()
-![HU 2]()
-![HU 3]()
-![HU 4]()
-![HU 5]()
+![HU-1](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/HU%201.png?raw=true)
+![HU-2](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/HU%202.png?raw=true)
+![HU-3](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/HU%203.png?raw=true)
+![HU-4](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/HU%204.png?raw=true)
+![HU-5](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/HU%205.png?raw=true)
 ## 5. Diseño UI
 ### Proceso del diseño [🎨]
 #### Estilo
@@ -57,13 +53,14 @@ Interactivo, intuitivo, fácil de navegar y atractivo visualmente para el usuari
 
 #### Teoria del color
 Utilizamos una herramienta para generar una paleta de colores que sea similar a la que vamos a utilizar en CSS utilizando un generador on line en coolors.
+![Paleta](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/Paleta%20de%20colores%20Club%20Zoocial.png?raw=true)
 
 ### Prototipos
 Para la creación de los prototipos de baja y alta fidelidad nos apoyamos con la herramienta llamada Figma. Se diseñó la app priorizando el formato de la pantalla móvil, la cual cuenta con tres vistas (login, registro y home). Además, se realizó el formato para pantalla de computador.
 #### Prototipo de baja fidelidad
-![prototipo de baja]()
+![baja](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/prototipo%20de%20baja.png?raw=true)
 #### Prototipo de alta fidelidad
-![prototipo de alta]()
+![alta](https://github.com/ValenParaguatey/DEV006-social-network/blob/main/src/assets/readme/prototipo%20de%20alta.png?raw=true)
 ## 6. Consideraciones generales
 
 * Este proyecto se realizó en triada.
